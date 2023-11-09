@@ -14,5 +14,5 @@ My passion is front-end development, but I'm also a big fan of automation and UI
 <h2>Get in touch</h2>
 
 * LinkedIn: https://www.linkedin.com/in/jemarhe/
-* Personal Site: https://jemarhe.com/
-* Email: contact@jemarhe.com
+* Personal Site: https://jemarhe.pro/
+* Email: jemarhe2@gmail.com
