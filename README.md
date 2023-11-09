@@ -9,7 +9,7 @@ My passion is front-end development, but I'm also a big fan of automation and UI
 * Currently learning: React, Python
 * Interested in learning: Three.js, Machine Learning
 * Favorite language: JavaScript
-* Hobbies: Translation, Gaming, Anime/Manga
+* Hobbies: Translation, theathre, chess, games, manga and a long et cetera
 
 <h2>Get in touch</h2>
 
